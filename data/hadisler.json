@@ -17,8 +17,8 @@
     {
       "id": 3,
       "baslik": "3. Hadis",
-      "turkce": "[Buraya Türkçe hadis metnini giriniz]",
-      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "turkce": "[Cabir ibn Abdullah radiyallahu ‘anhume’den rivayete göre, Resûlullah sallallahu ‘aleyhi ve sellem şöyle buyurmuştur: 'Her iyilik/güzel iş bir sadakadır.' Buhari.]",
+      "arapca": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ '‏ كُلُّ مَعْرُوفٍ صَدَقَةٌ '‏‏.  رواهُ البخاري",
       "audio": "audio/hadis_03.mp3"
     },
     {
