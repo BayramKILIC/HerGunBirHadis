@@ -24,8 +24,8 @@
     {
       "id": 4,
       "baslik": "4. Hadis",
-      "turkce": "[Buraya Türkçe hadis metnini giriniz]",
-      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "turkce": "Muaviye şöyle demiştir: Resulullah sallallahu ‘aleyhi ve sellem’in şöyle dediğini işittim: 'Allah, kim için hayır dilerse onu dinde anlayış sahibi kılar.' Buhari ve Muslim.",
+      "arapca": "عَنْ مُعَاوِيَةَ ـ رضى الله عنه ـ قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ. رواهُ البخاريُّ وَ مُسْلِم",
       "audio": "audio/hadis_04.mp3"
     },
     {
