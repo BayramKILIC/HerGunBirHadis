@@ -242,9 +242,14 @@ body.text-size-large {
 }
 
 .hadis-card.locked {
-    opacity: 0.5;
+    opacity: 0.6;
     cursor: not-allowed;
     filter: grayscale(50%);
+    background: #e5e7eb;
+}
+
+[data-theme="dark"] .hadis-card.locked {
+    background: #374151;
 }
 
 .hadis-card.locked:hover {
@@ -259,6 +264,10 @@ body.text-size-large {
     margin-bottom: var(--spacing-xs);
 }
 
+.hadis-card.locked .hadis-number {
+    color: #9ca3af;
+}
+
 .hadis-card.learned .hadis-number {
     color: var(--primary-dark);
 }
@@ -267,6 +276,10 @@ body.text-size-large {
     font-size: 1.1em;
     color: var(--text-secondary);
     font-weight: 600;
+}
+
+.hadis-card.locked .hadis-title {
+    color: #9ca3af;
 }
 
 .check-icon {
@@ -287,14 +300,20 @@ body.text-size-large {
 }
 
 .lock-icon {
-    font-size: 3em;
-    margin: var(--spacing-sm) 0;
+    font-size: 2em;
+    margin: 0;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    opacity: 0.5;
 }
 
 .lock-message {
-    font-size: 0.9em;
+    font-size: 0.75em;
     color: var(--text-secondary);
     font-style: italic;
+    margin-top: var(--spacing-xs);
+    display: none;
 }
 
 /* Badges */
