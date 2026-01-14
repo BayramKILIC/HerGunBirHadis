@@ -83,10 +83,34 @@ class HadisApp {
     async loadHadisData() {
         try {
             const response = await fetch('data/hadisler.json');
+            if (!response.ok) {
+                throw new Error('Fichier hadisler.json non trouvé');
+            }
             const data = await response.json();
             this.hadisData = data.hadisler;
+            
+            // Vérifier si les données sont vides
+            if (!this.hadisData || this.hadisData.length === 0) {
+                throw new Error('Aucun hadis dans le fichier JSON');
+            }
         } catch (error) {
             console.error('Erreur de chargement des hadis:', error);
+            // Créer des données de test si le fichier n'existe pas
+            this.createDefaultHadisData();
+        }
+    }
+
+    // Créer des données par défaut si le JSON ne charge pas
+    createDefaultHadisData() {
+        this.hadisData = [];
+        for (let i = 1; i <= 30; i++) {
+            this.hadisData.push({
+                id: i,
+                baslik: `${i}. Hadis`,
+                turkce: `[Buraya ${i}. hadis metnini giriniz]`,
+                arapca: `[Buraya Arapça hadis metnini giriniz]`,
+                audio: `audio/hadis_${String(i).padStart(2, '0')}.mp3`
+            });
         }
     }
 
@@ -465,7 +489,15 @@ class HadisApp {
 
     // Configurer les écouteurs de la page hadis
     setupHadisPageListeners(hadis) {
-        // Bouton retour
+        // Bouton retour (en haut)
+        const backBtnTop = document.getElementById('back-btn-top');
+        if (backBtnTop) {
+            backBtnTop.addEventListener('click', () => {
+                window.location.href = 'index.html';
+            });
+        }
+
+        // Bouton retour (en bas)
         const backBtn = document.getElementById('back-btn');
         if (backBtn) {
             backBtn.addEventListener('click', () => {
