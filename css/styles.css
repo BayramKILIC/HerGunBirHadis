@@ -911,8 +911,12 @@ body.text-size-large {
         padding: var(--spacing-md);
     }
     
-    .hadis-turkish, .hadis-arabic {
+    .hadis-turkish {
         font-size: 1.1em;
+    }
+
+    .hadis-arabic {
+        font-size: 2.2em;
     }
     
     .hadis-navigation {
