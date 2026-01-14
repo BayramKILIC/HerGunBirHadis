@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30 Hadis - Her Gün Bir Hadis Öğren</title>
+    <meta name="description" content="Çocuklar için 30 hadis öğrenme uygulaması. Her gün bir hadis öğren, ilerlemeini takip et ve rozetler kazan!">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌙</text></svg>">
+</head>
+<body>
+    <!-- En-tête -->
+    <header class="header">
+        <div class="container">
+            <h1>🌙 <span data-i18n="siteName">30 Hadis</span> ⭐</h1>
+            <p class="subtitle" data-i18n="subtitle">Her Gün Bir Hadis Öğren</p>
+        </div>
+    </header>
+
+    <!-- Conteneur principal -->
+    <div class="container">
+        <!-- Section progression -->
+        <section class="progress-section">
+            <div class="progress-header">
+                <h2 data-i18n="progress">İlerleme</h2>
+                <div class="progress-text">
+                    <span class="progress-count">0/30</span> 
+                    <span data-i18n="hadisLearned">hadis öğrenildi</span>
+                </div>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" style="width: 0%"></div>
+            </div>
+        </section>
+
+        <!-- Grille des hadis -->
+        <section>
+            <div id="hadis-grid" class="hadis-grid">
+                <!-- Les cartes de hadis seront générées ici par JavaScript -->
+            </div>
+        </section>
+
+        <!-- Section badges -->
+        <section class="badges-container">
+            <h3 data-i18n="badges">Rozetler</h3>
+            <div class="badge-list">
+                <!-- Les badges seront générés ici par JavaScript -->
+            </div>
+        </section>
+
+        <!-- Boutons d'action -->
+        <section class="action-buttons">
+            <button id="about-btn" class="btn btn-primary">
+                ℹ️ <span data-i18n="about">Hakkında</span>
+            </button>
+            <button id="settings-btn" class="btn btn-secondary">
+                ⚙️ <span data-i18n="settings">Ayarlar</span>
+            </button>
+            <button id="reset-btn" class="btn btn-danger">
+                🔄 <span data-i18n="reset">Sıfırla</span>
+            </button>
+        </section>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/i18n.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

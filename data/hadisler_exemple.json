@@ -1,0 +1,214 @@
+{
+  "hadisler": [
+    {
+      "id": 1,
+      "baslik": "1. Hadis",
+      "turkce": "Müslüman, elinden ve dilinden Müslümanların emin olduğu kimsedir.",
+      "arapca": "الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
+      "audio": "audio/hadis_01.mp3"
+    },
+    {
+      "id": 2,
+      "baslik": "2. Hadis",
+      "turkce": "Mümin, insanların en hayırlısıdır, ahlakı en güzel olandır.",
+      "arapca": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا",
+      "audio": "audio/hadis_02.mp3"
+    },
+    {
+      "id": 3,
+      "baslik": "3. Hadis",
+      "turkce": "Güçlü olan, güreşte rakibini yenen değil, öfkelendiğinde nefsine hakim olan kimsedir.",
+      "arapca": "لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ",
+      "audio": "audio/hadis_03.mp3"
+    },
+    {
+      "id": 4,
+      "baslik": "4. Hadis",
+      "turkce": "[Buraya 4. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_04.mp3"
+    },
+    {
+      "id": 5,
+      "baslik": "5. Hadis",
+      "turkce": "[Buraya 5. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_05.mp3"
+    },
+    {
+      "id": 6,
+      "baslik": "6. Hadis",
+      "turkce": "[Buraya 6. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_06.mp3"
+    },
+    {
+      "id": 7,
+      "baslik": "7. Hadis",
+      "turkce": "[Buraya 7. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_07.mp3"
+    },
+    {
+      "id": 8,
+      "baslik": "8. Hadis",
+      "turkce": "[Buraya 8. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_08.mp3"
+    },
+    {
+      "id": 9,
+      "baslik": "9. Hadis",
+      "turkce": "[Buraya 9. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_09.mp3"
+    },
+    {
+      "id": 10,
+      "baslik": "10. Hadis",
+      "turkce": "[Buraya 10. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_10.mp3"
+    },
+    {
+      "id": 11,
+      "baslik": "11. Hadis",
+      "turkce": "[Buraya 11. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_11.mp3"
+    },
+    {
+      "id": 12,
+      "baslik": "12. Hadis",
+      "turkce": "[Buraya 12. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_12.mp3"
+    },
+    {
+      "id": 13,
+      "baslik": "13. Hadis",
+      "turkce": "[Buraya 13. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_13.mp3"
+    },
+    {
+      "id": 14,
+      "baslik": "14. Hadis",
+      "turkce": "[Buraya 14. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_14.mp3"
+    },
+    {
+      "id": 15,
+      "baslik": "15. Hadis",
+      "turkce": "[Buraya 15. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_15.mp3"
+    },
+    {
+      "id": 16,
+      "baslik": "16. Hadis",
+      "turkce": "[Buraya 16. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_16.mp3"
+    },
+    {
+      "id": 17,
+      "baslik": "17. Hadis",
+      "turkce": "[Buraya 17. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_17.mp3"
+    },
+    {
+      "id": 18,
+      "baslik": "18. Hadis",
+      "turkce": "[Buraya 18. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_18.mp3"
+    },
+    {
+      "id": 19,
+      "baslik": "19. Hadis",
+      "turkce": "[Buraya 19. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_19.mp3"
+    },
+    {
+      "id": 20,
+      "baslik": "20. Hadis",
+      "turkce": "[Buraya 20. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_20.mp3"
+    },
+    {
+      "id": 21,
+      "baslik": "21. Hadis",
+      "turkce": "[Buraya 21. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_21.mp3"
+    },
+    {
+      "id": 22,
+      "baslik": "22. Hadis",
+      "turkce": "[Buraya 22. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_22.mp3"
+    },
+    {
+      "id": 23,
+      "baslik": "23. Hadis",
+      "turkce": "[Buraya 23. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_23.mp3"
+    },
+    {
+      "id": 24,
+      "baslik": "24. Hadis",
+      "turkce": "[Buraya 24. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_24.mp3"
+    },
+    {
+      "id": 25,
+      "baslik": "25. Hadis",
+      "turkce": "[Buraya 25. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_25.mp3"
+    },
+    {
+      "id": 26,
+      "baslik": "26. Hadis",
+      "turkce": "[Buraya 26. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_26.mp3"
+    },
+    {
+      "id": 27,
+      "baslik": "27. Hadis",
+      "turkce": "[Buraya 27. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_27.mp3"
+    },
+    {
+      "id": 28,
+      "baslik": "28. Hadis",
+      "turkce": "[Buraya 28. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_28.mp3"
+    },
+    {
+      "id": 29,
+      "baslik": "29. Hadis",
+      "turkce": "[Buraya 29. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_29.mp3"
+    },
+    {
+      "id": 30,
+      "baslik": "30. Hadis",
+      "turkce": "[Buraya 30. hadis metnini giriniz]",
+      "arapca": "[Buraya Arapça hadis metnini giriniz]",
+      "audio": "audio/hadis_30.mp3"
+    }
+  ]
+}

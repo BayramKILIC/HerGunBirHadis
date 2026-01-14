@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hadis Detayı - 30 Hadis</title>
+    <meta name="description" content="Hadis öğren ve dinle">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌙</text></svg>">
+</head>
+<body>
+    <!-- Conteneur principal -->
+    <div class="container">
+        <!-- Détails du hadis -->
+        <div class="hadis-detail">
+            <!-- En-tête -->
+            <div class="hadis-detail-header">
+                <div class="hadis-detail-number" id="hadis-number">1</div>
+                <h1 class="hadis-detail-title" id="hadis-title">1. Hadis</h1>
+            </div>
+
+            <!-- Texte turc -->
+            <div class="hadis-text-section">
+                <h3 class="hadis-label">
+                    🇹🇷 Türkçe Metin
+                </h3>
+                <div class="hadis-turkish" id="hadis-turkish">
+                    [Hadis metni buraya gelecek]
+                </div>
+            </div>
+
+            <!-- Texte arabe -->
+            <div class="hadis-text-section">
+                <h3 class="hadis-label">
+                    🕌 Arapça Metin
+                </h3>
+                <div class="hadis-arabic" id="hadis-arabic">
+                    [النص العربي سيكون هنا]
+                </div>
+            </div>
+
+            <!-- Lecteur audio -->
+            <div class="audio-section">
+                <h3>🎧 Dinle ve Öğren</h3>
+                <audio id="audio-player" class="audio-player" controls>
+                    <source src="" type="audio/mpeg">
+                    Tarayıcınız ses çalma özelliğini desteklemiyor.
+                </audio>
+                <button id="play-btn" class="play-btn">
+                    ▶️ <span data-i18n="listen">Dinle</span>
+                </button>
+                <div id="listen-count" class="listen-stats">
+                    🎧 <span class="count-number">0</span> <span data-i18n="listenCount">kez dinledin</span>
+                </div>
+            </div>
+
+            <!-- Bouton Appris -->
+            <div class="learn-section">
+                <button id="learn-btn" class="learn-btn">
+                    <span data-i18n="learned">Öğrendim</span> ✓
+                </button>
+            </div>
+
+            <!-- Navigation -->
+            <div class="hadis-navigation">
+                <button id="back-btn" class="nav-btn back-btn">
+                    ← <span data-i18n="backToList">Listeye Dön</span>
+                </button>
+                <button id="prev-btn" class="nav-btn" style="display: none;">
+                    ← <span data-i18n="previous">Önceki</span>
+                </button>
+                <button id="next-btn" class="nav-btn" style="display: none;">
+                    <span data-i18n="next">Sonraki</span> →
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/i18n.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Build Files (si vous ajoutez un build process plus tard)
+dist/
+build/
+*.min.js
+*.min.css
+
+# Dependencies (si vous ajoutez npm plus tard)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment Files
+.env
+.env.local
+.env.development
+.env.production
+
+# Audio files (optionnel - décommentez si vous ne voulez pas versionner les audios)
+# audio/*.mp3
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.rar
