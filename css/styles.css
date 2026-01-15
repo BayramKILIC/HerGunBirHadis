@@ -520,7 +520,6 @@ body.text-size-large {
 
 .hadis-turkish strong,
 .hadis-turkish b {
-    color: var(--primary-color);
     font-weight: 700;
 }
 
@@ -539,7 +538,6 @@ body.text-size-large {
 
 .hadis-arabic strong,
 .hadis-arabic b {
-    color: var(--secondary-color);
     font-weight: 700;
 }
 
