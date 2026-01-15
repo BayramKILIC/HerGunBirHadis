@@ -423,8 +423,8 @@ class HadisApp {
         
         document.getElementById('hadis-number').textContent = hadis.id;
         document.getElementById('hadis-title').textContent = hadis.baslik;
-        document.getElementById('hadis-turkish').textContent = hadis.turkce;
-        document.getElementById('hadis-arabic').textContent = hadis.arapca;
+        document.getElementById('hadis-turkish').innerHTML = hadis.turkce;
+        document.getElementById('hadis-arabic').innerHTML = hadis.arapca;
         
         const audioPlayer = document.getElementById('audio-player');
         audioPlayer.src = hadis.audio;

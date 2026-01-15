@@ -3,35 +3,35 @@
     {
       "id": 1,
       "baslik": "1. Hadis",
-      "turkce": "İbn Ömer radiyallahu anhu'dan Resulullah sallallahu aleyhi ve sellem buyurdu ki: İslam dini beş esas üzerine bina edilmiştir: Allah'tan başka hak ilah olmadığına ve Muhammed'in Allah'ın kulu ve rasûlü olduğuna şehadet etmek, namaz kılmak, zekât vermek, hacca gitmek ve Ramazan orucunu tutmak.",
-      "arapca": " عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ '‏ بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ '‏‏.‏ ",
+      "turkce": "İbn Ömer radiyallahu anhum<strong>'den Resulullah sallallahu aleyhi ve sellem buyurdu ki: <strong>İslam dini beş esas üzerine bina edilmiştir: Allah'tan başka hak ilah olmadığına ve Muhammed'in Allah'ın kulu ve rasûlü olduğuna şehadet etmek, namaz kılmak, zekât vermek, hacca gitmek ve Ramazan orucunu tutmak.</strong> Buhari ve Muslim.",
+      "arapca": " عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ :‏ بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ ‏‏. رواهُ البخاريُّ وَ مُسْلِم ",
       "audio": "audio/hadis_01.mp3"
     },
     {
       "id": 2,
       "baslik": "2. Hadis",
-      "turkce": "Enes radiyallahu anhu'den rivayet edilmiştir: Nebi'e Sallallahu Aleyhi ve Sellem büyük günahlar soruldu. şöyle buyurdu: 'Allah'a şirk koşmak, anne-babaya karşı gelmek, insan öldürmek ve yalan yere şahitlik etmektir.'",
+      "turkce": "Enes radiyallahu anhu'dan rivayet edilmiştir: Nebi sallallahu aleyhi ve sellem'e büyük günahlar soruldu. Şöyle buyurdu: <strong>Allah'a şirk koşmak, anne-babaya karşı gelmek, insan öldürmek ve yalan yere şahitlik etmektir.</strong> Buhari ve Muslim.",
       "arapca": " عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنِ الْكَبَائِرِ قَالَ ‏ '‏ الإِشْرَاكُ بِاللَّهِ، وَعُقُوقُ الْوَالِدَيْنِ، وَقَتْلُ النَّفْسِ، وَشَهَادَةُ الزُّورِ' ",
       "audio": "audio/hadis_02.mp3"
     },
     {
       "id": 3,
       "baslik": "3. Hadis",
-      "turkce": "Cabir ibn Abdullah radiyallahu ‘anhume’den rivayete göre, Resûlullah sallallahu ‘aleyhi ve sellem şöyle buyurmuştur: 'Her iyilik/güzel iş bir sadakadır.' Buhari.",
+      "turkce": "Cabir ibn Abdullah radiyallahu 'anhumê'den rivayete göre, Resûlullah sallallahu 'aleyhi ve sellem şöyle buyurmuştur: <strong>'Her iyilik/güzel iş bir sadakadır.'</strong> Buhari.",
       "arapca": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ '‏ كُلُّ مَعْرُوفٍ صَدَقَةٌ '‏‏.  رواهُ البخاري",
       "audio": "audio/hadis_03.mp3"
     },
     {
       "id": 4,
       "baslik": "4. Hadis",
-      "turkce": "Muaviye şöyle demiştir: Resulullah sallallahu ‘aleyhi ve sellem’in şöyle dediğini işittim: 'Allah, kim için hayır dilerse onu dinde anlayış sahibi kılar.' Buhari ve Muslim.",
+      "turkce": "Muaviye radiyallahu 'anhu şöyle demiştir: Resûlullah sallallahu 'aleyhi ve sellem'in şöyle dediğini işittim: <strong>'Allah, kim için hayır dilerse onu dinde anlayış sahibi kılar.'</strong> Buhari ve Muslim.",
       "arapca": "عَنْ مُعَاوِيَةَ ـ رضى الله عنه ـ قَالَ: سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ: مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ. رواهُ البخاريُّ وَ مُسْلِم",
       "audio": "audio/hadis_04.mp3"
     },
     {
       "id": 5,
       "baslik": "5. Hadis",
-      "turkce": "Enes bin Mâlik radiyallahu ‘anhu’den rivayete göre, Resulullah sallallahu ‘aleyhi ve sellem şöyle buyurmuştur: 'Biriniz kendisi için istediği şeyi din kardeşi için de istemedikçe (kâmil manada) iman etmiş olmaz.' Buhari ve Muslim.",
+      "turkce": "Enes bin Mâlik radiyallahu 'anhu'den rivayete göre, Resûlullah sallallahu 'aleyhi ve sellem şöyle buyurmuştur: <strong>'Biriniz kendisi için istediği şeyi din kardeşi için de istemedikçe (kâmil manada) iman etmiş olmaz.' </strong>Buhari ve Muslim.",
       "arapca": " عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ '‏ لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ '‏‏.‏ رواهُ البخاريُّ وَ مُسْلِم ",
       "audio": "audio/hadis_05.mp3"
     },

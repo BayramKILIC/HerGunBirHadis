@@ -518,6 +518,12 @@ body.text-size-large {
     margin-bottom: var(--spacing-lg);
 }
 
+.hadis-turkish strong,
+.hadis-turkish b {
+    color: var(--primary-color);
+    font-weight: 700;
+}
+
 .hadis-arabic {
     font-size: 2.5em;
     line-height: 2.2;
@@ -529,6 +535,12 @@ body.text-size-large {
     text-align: right;
     direction: rtl;
     font-family: 'Amiri', 'Traditional Arabic', serif;
+}
+
+.hadis-arabic strong,
+.hadis-arabic b {
+    color: var(--secondary-color);
+    font-weight: 700;
 }
 
 /* Lecteur audio */
